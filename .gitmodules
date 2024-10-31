@@ -1,0 +1,3 @@
+[submodule "git-submodule-practice"]
+	path = git-submodule-practice
+	url = git@daalergithub:Daaler/git-submodule-practice.git
